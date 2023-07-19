@@ -4,7 +4,7 @@ import {ApiCardsController} from "./controllers/cards/apiCards.controller";
 import {CommonModule} from "@app/common";
 import {ApiUsersController} from "./controllers/auth/apiUsers.controller";
 import {ApiRolesController} from "./controllers/auth/apiRoles.controller";
-import {ConfigService} from "@nestjs/config";
+
 
 
 @Module({
